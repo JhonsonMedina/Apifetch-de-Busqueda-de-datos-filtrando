@@ -1,0 +1,20 @@
+.customer{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.estado{
+    background: #8d2fff;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+.usuario{
+    background: rgb(196, 193, 193);
+    border: 1px solid #ddd;
+    padding: 8px;
+}
